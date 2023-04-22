@@ -1,0 +1,13 @@
+2023-04-22 16:39:59,933 WARNING _internal _log  * Debugger is active!
+2023-04-22 16:39:59,936 INFO _internal _log  * Debugger PIN: 671-086-987
+2023-04-22 16:40:03,317 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:03] "[35m[1mGET /api/pessoas HTTP/1.1[0m" 201 -
+2023-04-22 16:40:10,259 INFO Pessoa get Identificador de pessoa: 8
+2023-04-22 16:40:10,267 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:10] "[33mGET /api/pessoas/8 HTTP/1.1[0m" 404 -
+2023-04-22 16:40:22,952 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:22] "[35m[1mPUT /api/pessoas/7 HTTP/1.1[0m" 201 -
+2023-04-22 16:40:27,933 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:27] "[35m[1mGET /api/pessoas HTTP/1.1[0m" 201 -
+2023-04-22 16:40:46,462 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:46] "[35m[1mPOST /api/pessoas HTTP/1.1[0m" 201 -
+2023-04-22 16:40:50,728 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:40:50] "[35m[1mGET /api/pessoas HTTP/1.1[0m" 201 -
+2023-04-22 16:41:03,574 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:41:03] "DELETE /api/pessoas/10 HTTP/1.1" 200 -
+2023-04-22 16:41:07,189 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:41:07] "DELETE /api/pessoas/9 HTTP/1.1" 200 -
+2023-04-22 16:41:12,009 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:41:12] "[33mDELETE /api/pessoas/8 HTTP/1.1[0m" 404 -
+2023-04-22 16:41:15,813 INFO _internal _log 127.0.0.1 - - [22/Apr/2023 16:41:15] "[35m[1mGET /api/pessoas HTTP/1.1[0m" 201 -
